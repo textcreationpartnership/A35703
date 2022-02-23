@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Deplorable condition of the reduced and discharged men out of His Majesties several regiments of horse, foot and dragoons, that have served His Majesty in the reducing of Ireland, and in the wars in the low countries most humbly offered to the consideration of the Right Honourable the Lords spiritual and temporal, and the honourable the knights, citizens and burgesses in Parliament assembled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35703</idno>
+            <idno type="STC">Wing D1074</idno>
+            <idno type="STC">ESTC R41090</idno>
+            <idno type="EEBO-CITATION">19618682</idno>
+            <idno type="OCLC">ocm 19618682</idno>
+            <idno type="VID">109206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1685:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Deplorable condition of the reduced and discharged men out of His Majesties several regiments of horse, foot and dragoons, that have served His Majesty in the reducing of Ireland, and in the wars in the low countries most humbly offered to the consideration of the Right Honourable the Lords spiritual and temporal, and the honourable the knights, citizens and burgesses in Parliament assembled.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  Great Britain --  Early works to 1800.</term>
+               <term>Soldiers --  Great Britain --  Social conditions.</term>
+               <term>Great Britain --  History --  1689-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109206:1" rendition="simple:additions"/>
+            <head>The Deplorable Condition of the Reduced and Diſchar<g ref="char:EOLhyphen"/>ged Men out of his Majeſties ſeveral Regiments of Horſe, Foot and Dragoons, that have Served his Majeſty in the Reducing of <hi>Ireland,</hi> and in the Wars in the <hi>Low Countries.</hi>
+            </head>
+            <head type="sub">Moſt Humbly offered to the Conſideration of the Right Honourable the Lords Spiritual and Temporal, and the Honourable the Knights, Citizens and Burgeſſes in Parliament Aſſembled.</head>
+            <opener>Sheweth,</opener>
+            <p>THAT with Hearts full of Thankfulneſs, they Acknowledg the great Care and Readineſs of this Honourable Houſe, in hearing the many Complaints have been made to your Honours on their behalf; And with what Zeal and Love of Juſtice to relieve the oppreſt, there was the laſt Seſſion of Parliament, an Act made which gave them great hopes that there would be no more need of troubling your Honours therein.—But the United Reſolutions of the Officers, not to Comply with the ſame, or give any Account or Satisfaction to the oppreſt in any Matter whatſoever, un<g ref="char:EOLhyphen"/>leſs compell'd by Severity of Law (which they are not able to proſecute) Neceſſitates them to become your dayly Supplicants for your further protection and relief, they having ſpent their little all on their attendance thereon already, and are become Objects of Pi<g ref="char:EOLhyphen"/>ty Worthy your Honours Conſideration and Speedy Reſolution; therefore with all Submiſſion they humbly preſume to lay before your Honours:
+<list>
+                  <item>1. That altho his Majeſty by his moſt Gracious Orders on the Reducement of the Army, ſince the happy Concluſion of the Peace, directed that each Trooper and Dragoon, reduced out of his ſeveral Regiments, and Troops of Horſe and Dragoons, and had ſer<g ref="char:EOLhyphen"/>ved in the ſame a Twelve Month, as of his Majeſty's bounty, ſhould have his Horſe and Accoutrements, or value, yet their Reſpective Officers have detained many of their Hor<g ref="char:EOLhyphen"/>ſes without giving them any Satisfaction for the ſame; Altho ſeveral brought their Horſes into the Service at their own charge.</item>
+                  <item>2. That as it hath been the Wiſdom of the Government on the Eſtabliſhment of the Army, to ſettle the pay of each Member in the Army; It hath been the Care of the Parliament by Act of the <hi>4th</hi> and <hi>5th</hi> of his preſent Majeſty, and the late Queen <hi>Mary</hi> of happy Memory (which Act was yearly renewed during the Wars) to limit a certain part of the pay allowed all Private Centinells and Souldiers as their Immediate Sub<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtance, and that they ſhould have an Account of their pay without any Deduction or Abate<g ref="char:EOLhyphen"/>ments whatſoever, other then the uſual Deductions from the Souldiers for Cloathing, 12 <hi>d. per l.</hi> to be diſpoſed of as their Majeſty's ſhall direct, and one days pay in the Year to <hi>Chelſey Colledg:</hi> And with all Submiſſion they Preſume their faithful ſervices during the War hath given ſufficient Teſtimony of their Loyalty, and the juſt diſcharge of their duty to their Country, and may Juſtly Entitle them to their pay according to the Eſtabliſh<g ref="char:EOLhyphen"/>ment, and the ſeveral Acts of Parliament therein. But to their great grief they have found that their Officers have ſtopt out of their immediate Subſiſtance, by Unwarrantable Deductions, and contrary to Acts of Parliament, between 8 or 10 l. a Man <hi>per Annum,</hi> from all Troopers, 4 or 6 l. a Man from Dragoons, and 2 <hi>l.</hi> and 3 <hi>l.</hi> 10 s. from Foot Souldiers, Sergeants, Corporalls, and Drummers, proportionably according to their pay, during the Wars in <hi>Flanders.</hi> And that the Private Centinells were compelled to Sub<g ref="char:EOLhyphen"/>ſcribe the Accounts, and admit of theſe Deductions under the Threats and Terrours of their Officers, to be ſent Priſoners to the Provoſt Marſhal, where many have been com<g ref="char:EOLhyphen"/>mitted at the will of their Officers, and kept on Bread and Water till they Complied with their Peremptory Commands others been diſcharg'd the ſervice for their Non Com<g ref="char:EOLhyphen"/>plyance, and ſome have been try'd by a Court Marſhal, and received Puniſhment becauſe they would not ſubmit and ſign general diſcharges.</item>
+                  <item>3. That thoſe that ſerved in <hi>Ireland,</hi> have not had plenary Accounts of their Subſiſt<g ref="char:EOLhyphen"/>ance due there, or any Account of their off-Reckonings ſince they have been in the Ar<g ref="char:EOLhyphen"/>my, altho it hath been directed by his Majeſty's Particular Orders therein. And that all Colonels and Commanding Officers of each Regiment, have long ſince had an Account of their Iriſh Arrears ſtated to the laſt of <hi>March,</hi> 1<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>92. and clearance to a ſmall Summ, which they pretend lyes in the Kings Hand.—But it is to much to be feared, it is a de<g ref="char:EOLhyphen"/>ſign of the Officers on purpoſe to avoid a full Account with the Souldiers, who have Ar<g ref="char:EOLhyphen"/>rears yet due to them for their ſervice in <hi>Ireland.</hi>
+                  </item>
+                  <pb facs="tcp:109206:2"/>
+                  <item> 4. That in the Year 1692. each Trooper that was in <hi>Ireland</hi> received 2 <hi>l.</hi> 5 <hi>s.</hi> Corporals and Trumpeters 2 <hi>l</hi> 10 <hi>s. per</hi> man, and Dragoons proportionably, as a Bounty from her late Majeſty of happy Memory, which is ſince charged as ſo much paid in part of their Subſiſtance in <hi>Ireland.</hi>
+                  </item>
+                  <item>5. That many of the Colonels and Officers concern'd in the <hi>Iriſh</hi> Arrears, and <hi>Flanders</hi> Stoppages, are now in <hi>Ireland,</hi> and will not come into <hi>England,</hi> on purpoſe to defraud the Soldiers that were under their particular Commands, and are now diſcharged and redu<g ref="char:EOLhyphen"/>ced out of their reſpective Regiments.</item>
+               </list>
+            </p>
+            <p>That with all Submiſſion, it is preſumed it may not be unworthy the Conſideration of this Honourable Houſe, to obſerve how remiſs and unwilling the Officers are to ſhew O<g ref="char:EOLhyphen"/>bedience to Acts of Parliament already made, or comply with his Majeſties Orders made for the good and benefit of the Soldiers, in the diſtribution of his Royal Favours, by their Confederating to oppoſe the ſame by an United Reſolution <hi>(a thing Commendable in Civil Communities, for the ſuppreſſing of Vice, but rarely found to oppoſe the Eſtabliſh'd Laws of the Kingdom, and his Majeſties Royal Acts of Bounty):</hi> And what Methods they have uſed to ſtop Large Sums of Money out of the Immediate Subſiſtance of the Soldiers, to their great Impoveriſhing; whilſt the Officers grow Rich, and poſſeſs and claim all Monies due no Dead, Abſent or Diſcharged Men, and the Widows, Orphans and Relations of many, and ſuch who have power to receive the ſame, are reduced to great Penury and Want; and are likely ſo to continue, unleſs Relieved by your Honours, in the diſanul<g ref="char:EOLhyphen"/>ling the Extorted Receipts have been given by the Soldiers, and by ſuch other ways and means as to the Wiſdom of this Honourable Houſe ſhall be thought moſt fit and expedi<g ref="char:EOLhyphen"/>ent; The Officers declaring, they are reſolved to pay no Money but what they are com<g ref="char:EOLhyphen"/>pell'd by Law, or ordered by this Honourable Houſe.</p>
+            <p>
+               <hi>All which is moſt, Humbly Submitted,</hi> &amp;c.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>THE CASE OF THE Reduced and Disbanded Soldiers</p>
+         </div>
+      </back>
+   </text>
+</TEI>
